@@ -101,24 +101,6 @@ Note that, for now it only supports following crops
   python app.py
   ```
 - Open the localhost url provided after running `app.py` and now you can use the project locally in your web browser.
-## DEMO
-
-- ### Crop recommendation system
-
-![demo](https://media.giphy.com/media/90JbjdAa5nDq3TJh5u/giphy.gif)
-
-- ### Fertilizer suggestion system
-
-![demo](https://media.giphy.com/media/FLftUXMFo8N2bBjAXq/giphy.gif)
-
-
-- ### Disease Detection system
-![demo](https://media.giphy.com/media/NnMwEp2tGZdfnJbyjr/giphy.gif)
-
-
-
-## Contribute 👨‍💻
-Please read [CONTRIBUTING.md](https://github.com/Gladiator07/Harvestify/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Usage ⚙️
 You can use this project for further developing it and adding your work in it. If you use this project, kindly mention the original source of the project and mention the link of this repo in your report.
@@ -137,4 +119,4 @@ This project is licensed under [GNU (GENERAL PUBLIC LICENSE)](https://github.com
 
 ## Contact 📞
 
-#### If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/atharva-ingle-564430187/)
+#### If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/sugam-jain/)
